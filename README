@@ -7,7 +7,7 @@ The Library to implement different  queue implementaions like Inmemory Queue, Fi
 It also supports different implementations based on environment like Local, prod , statging etc
 
 
-Design Details
+#Design Details
 --------------------
 **** Please take a look into class_diagram file for the complete  design !
 1. The library implents a common interface QueueService with method signatures
