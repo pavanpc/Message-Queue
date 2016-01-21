@@ -1,7 +1,5 @@
-/*
-   Author- Pavan PC
-   Date  - 27-Sep-2015
-*/
+
+# Library to mimic message queue behaviors
 
 A Library to implement different  queue implementaions like Inmemory Queue, File Queue and SQS queue
 It also supports different implementations based on environment like Local, prod , statging etc
